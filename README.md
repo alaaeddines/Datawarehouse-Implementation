@@ -23,7 +23,7 @@ __Implementation__: In the implementation stage, we used Microsoft tools to crea
 * __SSIS__: We used SSIS to extract data from the source systems to the staging area and then to the data warehouse.
 * __SSAS__: We used SSAS to create OLAP cubes for data analysis.
 * __Power BI__: We used Power BI to create reports for the sales department.
-* 
+
 ## Design of the Data warehouse Schema
 ![](https://user-images.githubusercontent.com/76821291/195586553-7337402e-2bbb-4bc3-9aef-c4d3aacdd7bd.PNG)
 
